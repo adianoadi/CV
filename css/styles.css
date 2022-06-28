@@ -1,0 +1,49 @@
+/*********************************************Tag Selector****************************************/
+body
+{
+    background-color: #F2D7D9;
+}
+
+h1
+{
+    color: red;
+}
+
+h3
+{
+    color: red;
+}
+
+hr
+{
+    background-color: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: red;
+    border-width: 8px;
+    height: 0px;
+    width: 5%;
+
+}
+
+img
+{
+    height: 200px;
+    background-color: none;
+}
+
+img:hover
+{
+    height: 400px;
+    background-color: red;
+}
+/********************************************Class Selector****************************************/
+.adianoadi
+{
+    background-color: none;
+}
+/********************************************ID Selector*******************************************/
+#mainmyhead
+{
+    color: none;
+}
